@@ -10,7 +10,7 @@ Citizen.CreateThread(function()
     RemoveAllPickupsOfType(0xA9355DCD) -- pumpshotgun
   end
 end) 
---------Disable ALL Emergency Service- Military Dispatching--------------------------
+--------Disable ALL Emergency--------------------------
 
 Citizen.CreateThread(function()
 	for i = 1, 25 do
