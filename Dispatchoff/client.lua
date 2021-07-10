@@ -27,11 +27,6 @@ Citizen.CreateThread(function()
    end
 end)
 
------------Novehweapons-----------
-local vehWeapons = {
-	0x1D073A89, -- ShotGun
-	0x83BF0278, -- Carbine
-	0x5FC3C11, -- Sniper
-}
+
 
 
